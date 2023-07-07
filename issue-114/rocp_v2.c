@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <rocprofiler.h>
+#include <v2/rocprofiler.h>
 #include "rocp.h"
 
 int rocpv2_foo(void)
